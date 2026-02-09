@@ -20,6 +20,11 @@ Comparison of the approximations shows:
 
 The numerical error of 3.1416 is significantly smaller than that of 3.1415. This relationship remains consistent when examined at the 20th, 40th, 60th, and 100th decimal places. Increasing the number of decimal places does not change the relative accuracy of the approximations. The difference between 3.1415 and 3.1416 is fixed at the fourth decimal place, and higher precision only makes the existing error more visible. Since the true value of π has a fifth decimal digit of 9, rounding to 3.1416 provides a closer approximation than truncating to 3.1415.
 
+
+<img width="957" height="509" alt="output" src="https://github.com/user-attachments/assets/de68da3f-7c8d-459f-96ac-4edab2131eda" />
+
+
+
 To conclude, the experiment demonstrates that π can be computed using non-geometric mathematical formulas such as infinite series. The approximation 3.1416 is consistently more accurate than 3.1415, regardless of the number of decimal places examined. Increasing decimal precision does not introduce new differences between the two values but highlights the accuracy of proper rounding.
 
 Example: Comparing π Approximations at Different Decimal Places
@@ -61,6 +66,7 @@ Even if π is written as:
 or extended to 100 decimal places, the difference between 3.1415 and 3.1416 remains exactly 0.0001.
 
 The additional decimals do not change which approximation is better—they only show more digits of π beyond where the approximation already stopped.
+
 
 References
 
